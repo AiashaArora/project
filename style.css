@@ -1,0 +1,53 @@
+body {
+    padding-top: 200px;
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+}
+
+.menu {
+    font-family: fantasy;
+    list-style: none;
+    right: 30px;
+    top: 10px;
+    float: right;
+    color: hotpink;
+    cursor: pointer;
+}
+
+#name {
+    font-family: fantasy;
+}
+
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover{
+    background-color: blue;
+}
